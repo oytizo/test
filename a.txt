@@ -1,4 +1,7 @@
 ahsan
 https://github.com/monicse09ku/OngkoBigganWeb
+<<<<<<< oyti
 this is ridiculous
 how!!!
+=======
+>>>>>>> main
